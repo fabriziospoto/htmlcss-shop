@@ -44,3 +44,22 @@ p {
     text-align: center;
     margin: 0 auto;
 }
+
+.heart {
+    position: relative;
+    text-align: center;
+    width: 20px;
+}
+
+.cuore {
+    font-size: 20px;
+    display: inline-block;
+    margin-left: 70px;
+    margin-top: 7px;
+    color: red;
+    opacity: 0;
+}
+
+.cuore:hover {
+    opacity: 1;
+}
