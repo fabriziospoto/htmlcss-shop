@@ -1,0 +1,46 @@
+body {
+    width: 50%;
+    margin: 0 auto;
+}
+
+.container {
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.square {
+    width: 150px;
+    height: 210px;
+    background-color: #ededed;
+    display: inline-block;
+}
+
+.image {
+    padding-top: 15px;
+    width: 100px;
+    display: block;
+    margin: auto;
+    text-align: center;
+}
+
+#price {
+    position: relative;
+    width: 25px;
+    height: 15px;
+    background-color: green;
+    left: 125px;
+}
+
+#pricered {
+    position: relative;
+    width: 25px;
+    height: 15px;
+    background-color: red;
+    left: 125px;
+}
+
+p {
+    font-size: 10px;
+    text-align: center;
+    margin: 0 auto;
+}
